@@ -82,8 +82,7 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 ## 2.5 Issue references within a repository
 Any number that refers to an Issue or Pull Request will be automatically converted into a link.
 
-#1
-mojombo#1
+\#1mojombo#1
 mojombo/github-flavored-markdown#1
 
 ## 2.6 Username @mentions
